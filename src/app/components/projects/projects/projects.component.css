@@ -6,12 +6,12 @@
   height: 500px;
 }
 .fashionimg {
-  width: 1300px;
+  width: 100%;
   height: 600px;
 }
 .whatsimg {
-  width: 400px;
-  height: 400px;
+  width: 50%;
+  height: 75%;
 }
 .whats1 {
   margin-top: 150px;

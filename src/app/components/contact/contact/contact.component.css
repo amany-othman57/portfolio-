@@ -5,3 +5,8 @@ textarea {
   background-color: #f2f2e8 !important;
   height: 300px;
 }
+@media screen and (min-width: 200px) and (max-width: 700px) {
+  * {
+    margin: 10px;
+  }
+}
