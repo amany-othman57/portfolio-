@@ -45,3 +45,11 @@ h2 {
   height: 455px;
   border-radius: 248px;
 }
+@media  screen and (min-width:200px) and (max-width:700px) {
+    .personalimg{
+        width: 100%;
+        margin: 0px;
+        padding: 5px;
+    }
+   
+}

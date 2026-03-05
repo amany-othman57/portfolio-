@@ -11,3 +11,13 @@ p {
   width: 500px;
   height: 500px;
 }
+@media  screen and (min-width:200px) and (max-width:700px) {
+    p{
+        width: 100%;
+        margin: 0px;
+        padding: 5px;
+    }
+    .img2{
+        width: 100%;
+    }
+}

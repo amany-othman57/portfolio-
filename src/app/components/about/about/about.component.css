@@ -6,3 +6,18 @@
   width: 1150px;
   height: 650px;
 }
+@media screen and (min-width: 200px) and (max-width: 700px) {
+  p {
+    width: 100%;
+    margin: 0px;
+    padding: 5px;
+  }
+  .wirimg {
+    width: 25%;
+    height: 75%;
+  }
+  .prototyping-img {
+    width: 100%;
+    height: 75%;
+  }
+}
