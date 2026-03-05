@@ -1,1 +1,47 @@
-/* You can add global styles to this file, and also import other style files */
+.borderbot {
+  border-bottom: 3px solid #544f49;
+  margin-bottom: 50px;
+}
+.bodycolor {
+  color: #998972;
+  font-weight: 500;
+  font-style: "medium";
+  font-size: 20px;
+}
+.heading {
+  color: #544f49;
+  font-style: "bold";
+  font-size: 25px;
+  font-weight: 700;
+}
+.headercolor {
+  color: #544f49;
+  font-style: "semi-bold";
+  font-size: 20px;
+  font-weight: 600;
+}
+body {
+  background-color: #f2f2e8;
+}
+.navcolor {
+  color: #998972;
+  font-style: "semi-bold";
+  font-size: 20px;
+  font-weight: 600;
+}
+.border {
+  border-color: #998972 !important;
+}
+h2 {
+  color: #544f49;
+  font-family: serif;
+  font-style: "bold";
+  font-size: 40px;
+  font-weight: 700;
+  text-align: center;
+}
+.personalimg {
+  width: 568px;
+  height: 455px;
+  border-radius: 248px;
+}

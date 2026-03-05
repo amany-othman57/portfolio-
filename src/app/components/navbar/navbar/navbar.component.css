@@ -1,0 +1,11 @@
+.navbar-nav {
+  margin-left: 350px;
+}
+.nav-link:hover {
+  color: #998972 !important;
+}
+.nav-selected {
+  color: #998972 !important;
+  border: 2px solid #998972;
+  border-radius: 5px;
+}
